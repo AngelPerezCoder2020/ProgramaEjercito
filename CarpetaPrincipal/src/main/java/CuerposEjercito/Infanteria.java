@@ -1,5 +1,4 @@
 package CuerposEjercito;
-
 import java.util.List;
 import soldados.Soldado;
 
